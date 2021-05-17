@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: helvetica;
+}
+
+body {
+    background-image: url('../img/background.jpg');
+    background-color: orangered;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #ffffff;
+    height: 450px;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,.3);  
+    padding: 30px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.input-control {
+    width: 100%;
+    height: 35px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    padding-left: 10px;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.btn-iniciar {
+    font-weight: 600;
+    font-size: 15px;
+    color:#ffffff;
+    background-color: gold;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.btn-registrar {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color:#ffffff;
+    background-color: orangered;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+.btn-other {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color:orangered;
+}
+
+.avatar {
+    width: 100px;
+}
+
+.titulos {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.titulos h2{
+    color: orangered;
+}
+
+.titulos h4{
+    color: #606770;
+}
+
+h6 {
+    color:orangered;
+}
+.form-group label {
+    color: orangered;
+}
