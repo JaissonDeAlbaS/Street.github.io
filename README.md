@@ -1,2 +1,2 @@
 # Street.github.io
-Desarrollo de la sección de login y registro de usuario con Html5, Css3
+Desarrollo de las vistas Log In y Sign Up con HTML5, CSS3
